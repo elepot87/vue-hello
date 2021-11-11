@@ -2,4 +2,20 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.main-title {
+  text-align: center;
+  color: dodgerblue;
+  font-size: 30px;
+  margin: 35px 0;
+}
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
